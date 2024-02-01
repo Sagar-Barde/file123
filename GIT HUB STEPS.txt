@@ -1,0 +1,16 @@
+For uploading files
+Step 1: git init
+Step 2: git add .
+Step 3: git commit -m "Commit Message"
+Step 4: git remote add origin "url"
+Step 5: git push -u origin master
+For updating files
+Step 1: git init
+Step 2: git add .
+Step 3: git commit -m "Commit Message"
+Step 4: git remote add origin "url"
+Step 5: git push -u origin master
+For Fork and clone
+Click fork button (top right side)
+Open git bash and type the command
+git clone "URL
